@@ -97,7 +97,7 @@
 
     // Room Active
     $('.room_list').owlCarousel({
-        loop: true,
+        loop: false,
         autoplay: true,
         autoplayTimeout: 9000,
         dots:true,
@@ -114,10 +114,10 @@
                 items: 2
             },
             1000: {
-                items: 3
+                items: 2
             },
             1920: {
-                items: 3
+                items: 2
             }
         }
     })
@@ -151,7 +151,7 @@
 
     // Offers list
     $('.offers-list').owlCarousel({
-        loop: true,
+        loop: false,
         autoplay: true,
         autoplayTimeout: 10000,
         dots: false,
@@ -171,13 +171,13 @@
                 items: 2
             },
             992: {
-                items: 3
+                items: 2
             },
             1000: {
-                items: 3
+                items: 2
             },
             1920: {
-                items: 4
+                items: 2
             }
         }
     })  
