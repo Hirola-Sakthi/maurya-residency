@@ -4466,7 +4466,7 @@ p.room-detils-desc {
 }
 
 .about-area {
-    padding: 46px 0 88px;
+    padding: 46px 0 46px;
 }
 
 .section-title.center:before {
@@ -4573,7 +4573,7 @@ p.section-desc-2 {
 }
 
 .facilities-area {
-    padding: 109px 0 65px;
+    padding: 60px 0 35px;
 }
 
 .facilities-thumb img {
@@ -5525,7 +5525,7 @@ p.section-desc-2 {
 }
 
 .about-area.inner {
-    padding: 124px 0 132px;
+    padding: 60px 0 80px;
 }
 
 .about-area.inner .about-thumb {
