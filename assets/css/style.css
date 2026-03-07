@@ -7218,7 +7218,7 @@ a.dark-logo {
 }
 
 .breadcumb-about-area {
-    background: url(../images/inner/maurya-about-banner.webp);
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../images/inner/maurya-about-banner.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -7227,7 +7227,7 @@ a.dark-logo {
 }
 
 .breadcumb-room-area {
-    background: url(../images/inner/maurya-room-banner.webp);
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../images/inner/maurya-room-banner.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -7236,7 +7236,7 @@ a.dark-logo {
 }
 
 .breadcumb-amenities-area {
-    background: url(../images/inner/maurya-amenities-banner.webp);
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../images/inner/maurya-amenities-banner.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -7245,7 +7245,7 @@ a.dark-logo {
 }
 
 .breadcumb-blog-area {
-    background: url(../images/inner/maurya-blog-banner.webp);
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../images/inner/maurya-blog-banner.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -7254,7 +7254,17 @@ a.dark-logo {
 }
 
 .breadcumb-contact-area {
-    background: url(../images/inner/maurya-contact-banner.webp);
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../images/inner/maurya-contact-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 260px 0 170px;
+    text-align: center;
+}
+
+.breadcumb-blog-details-area {
+   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+                url(../images/inner/blog-details-banner.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
